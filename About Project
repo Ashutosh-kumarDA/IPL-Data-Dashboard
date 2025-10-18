@@ -1,0 +1,31 @@
+🏏 IPL Data Analysis Dashboard (2008–2025)
+   ---------------------------------------
+This project is based on real IPL data (2008–2025) containing over 278,000 records.
+The goal was to analyze player and team performances across all seasons using Power BI and create an interactive dashboard that showcases year-wise and player-wise insights.
+
+🧠 Key Highlights
+  ----------------
+      Used Power BI to create all required data tables and relationships directly from the raw dataset.
+      Built multiple visual reports to track:
+      ->Player-wise and year-wise performance
+      ->Team comparisons and trends
+      ->Match outcomes, toss results, and venues
+
+Developed a fully interactive dashboard with slicers, filters, and dynamic visuals for detailed exploration.
+
+🛠️ Tools & Technologies
+  ----------------------
+     ->Power BI – Data modeling, DAX, and dashboard creation
+     ->Microsoft Excel / CSV – Source data file (clean and real IPL data)
+
+📊 Dashboard Features
+  --------------------
+  📅 Year-wise and player-wise analysis
+     ->Team performance metrics and trends
+     ->Custom filters, and dynamic charts
+     ->Insights on top players, runs, wickets, and match stats
+
+  📂 Dataset Information
+     ->Type: Real IPL dataset (2008–2025)
+     ->Records: 278,000+ rows
+     ->Includes: Match details, player stats, teams, venues, and results
